@@ -1,0 +1,9 @@
+c:\users\kathy\documents\visual studio 2015\Projects\ASCII Sumation\ASCII Sumation\bin\Debug\ASCII Sumation.exe.config
+c:\users\kathy\documents\visual studio 2015\Projects\ASCII Sumation\ASCII Sumation\obj\Debug\ASCII Sumation.csprojResolveAssemblyReference.cache
+c:\users\kathy\documents\visual studio 2015\Projects\ASCII Sumation\ASCII Sumation\obj\Debug\ASCII_Sumation.Form1.resources
+c:\users\kathy\documents\visual studio 2015\Projects\ASCII Sumation\ASCII Sumation\obj\Debug\ASCII_Sumation.Properties.Resources.resources
+c:\users\kathy\documents\visual studio 2015\Projects\ASCII Sumation\ASCII Sumation\obj\Debug\ASCII Sumation.csproj.GenerateResource.Cache
+c:\users\kathy\documents\visual studio 2015\Projects\ASCII Sumation\ASCII Sumation\bin\Debug\ASCII Sumation.exe
+c:\users\kathy\documents\visual studio 2015\Projects\ASCII Sumation\ASCII Sumation\bin\Debug\ASCII Sumation.pdb
+c:\users\kathy\documents\visual studio 2015\Projects\ASCII Sumation\ASCII Sumation\obj\Debug\ASCII Sumation.exe
+c:\users\kathy\documents\visual studio 2015\Projects\ASCII Sumation\ASCII Sumation\obj\Debug\ASCII Sumation.pdb
